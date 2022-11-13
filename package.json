@@ -1,0 +1,19 @@
+{
+  "name": "Backend Dysk Dima",
+  "version": "1.0.0",
+  "description": "Dysk Dima jedyny taki w USA",
+  "scripts": {
+    "start": " node main.js"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^3.17.1",
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.14",
+    "@types/uuid": "^8.3.4"
+  }
+}
